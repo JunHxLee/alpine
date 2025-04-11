@@ -1,1 +1,2 @@
 alpine.img.init filter=lfs diff=lfs merge=lfs -text
+alpine.img.init.docker filter=lfs diff=lfs merge=lfs -text
